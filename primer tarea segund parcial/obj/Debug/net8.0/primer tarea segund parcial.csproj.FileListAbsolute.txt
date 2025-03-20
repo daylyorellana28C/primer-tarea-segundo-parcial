@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\primer tarea segund parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\primer tarea segund parcial.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\primer tarea segund parcial.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\primer tarea segund parcial.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\bin\Debug\net8.0\primer tarea segund parcial.exe
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\bin\Debug\net8.0\primer tarea segund parcial.deps.json
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\bin\Debug\net8.0\primer tarea segund parcial.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\bin\Debug\net8.0\primer tarea segund parcial.dll
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\bin\Debug\net8.0\primer tarea segund parcial.pdb
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\primer tarea segund parcial.dll
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\refint\primer tarea segund parcial.dll
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\primer tarea segund parcial.pdb
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\primer tarea segund parcial.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\primer tarea segundo parcial\primer tarea segund parcial\primer tarea segund parcial\obj\Debug\net8.0\ref\primer tarea segund parcial.dll
